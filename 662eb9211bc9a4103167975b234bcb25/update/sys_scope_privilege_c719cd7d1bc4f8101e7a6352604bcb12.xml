@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
     <sys_scope_privilege action="INSERT_OR_UPDATE">
-        <operation>read</operation>
+        <operation>delete</operation>
         <source_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</source_scope>
         <status>allowed</status>
         <sys_class_name>sys_scope_privilege</sys_class_name>
-        <sys_created_by>citizen.developer</sys_created_by>
-        <sys_created_on>2020-12-24 15:49:20</sys_created_on>
-        <sys_id>7c44ee951b5168103167975b234bcbfb</sys_id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2021-05-11 15:20:42</sys_created_on>
+        <sys_id>c719cd7d1bc4f8101e7a6352604bcb12</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_snc_kyc_on_jpmc_kyc_requests</sys_name>
+        <sys_name>sys_user_has_role</sys_name>
         <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
         <sys_policy/>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_update_name>sys_scope_privilege_7c44ee951b5168103167975b234bcbfb</sys_update_name>
-        <sys_updated_by>citizen.developer</sys_updated_by>
-        <sys_updated_on>2020-12-24 15:49:20</sys_updated_on>
-        <target_name>x_snc_kyc_on_jpmc_kyc_requests</target_name>
-        <target_scope display_value="">00fb5d201b8124103167975b234bcb04</target_scope>
+        <sys_update_name>sys_scope_privilege_c719cd7d1bc4f8101e7a6352604bcb12</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 15:20:42</sys_updated_on>
+        <target_name>sys_user_has_role</target_name>
+        <target_scope display_value="Global">global</target_scope>
         <target_type>sys_db_object</target_type>
     </sys_scope_privilege>
 </record_update>

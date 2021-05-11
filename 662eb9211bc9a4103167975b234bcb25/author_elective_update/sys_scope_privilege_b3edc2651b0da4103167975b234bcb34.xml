@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="DELETE">
+        <operation>create</operation>
+        <source_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-12-12 22:34:34</sys_created_on>
+        <sys_id>b3edc2651b0da4103167975b234bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user_has_role</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sys_scope_privilege_b3edc2651b0da4103167975b234bcb34</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2020-12-12 22:34:34</sys_updated_on>
+        <target_name>sys_user_has_role</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>sys_db_object</target_type>
+    </sys_scope_privilege>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</application>
+        <file_path/>
+        <instance_id>adbdaa36dbf2ec103050ac44d4961923</instance_id>
+        <instance_name>appenginescdev</instance_name>
+        <name>sys_scope_privilege_b3edc2651b0da4103167975b234bcb34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege"><sys_scope_privilege action="INSERT_OR_UPDATE"><operation>create</operation><source_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</source_scope><status>allowed</status><sys_class_name>sys_scope_privilege</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2020-12-12 22:34:34</sys_created_on><sys_id>b3edc2651b0da4103167975b234bcb34</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_user_has_role</sys_name><sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package><sys_policy/><sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope><sys_update_name>sys_scope_privilege_b3edc2651b0da4103167975b234bcb34</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2020-12-12 22:34:34</sys_updated_on><target_name>sys_user_has_role</target_name><target_scope display_value="Global">global</target_scope><target_type>sys_db_object</target_type></sys_scope_privilege></record_update>]]></payload>
+        <payload_hash>160209803</payload_hash>
+        <record_name>sys_user_has_role</record_name>
+        <reverted_from/>
+        <source>3b4dacf11b84f8101e7a6352604bcbab</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2021-05-11 13:19:42</sys_created_on>
+        <sys_id>fe6d24351b84f8101e7a6352604bcb9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1795b95506a0000001</sys_recorded_at>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 13:19:42</sys_updated_on>
+        <type>Cross scope privilege</type>
+        <update_guid>be6d2435c784f81048184570bd27439c</update_guid>
+        <update_guid_history>032c2cb15384f810e70f9581ff90ffbe:-403363755,032c2cb15384f810e70f9581ff90ffbe:-403363755,e11ca2171feb2c5060f6220cb150aa76:1799562439</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2021-05-11 14:37:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_scope_privilege">sys_scope_privilege</sys_db_object>
+        <sys_id>59713a51fd224a6e9e6b9a913b7bf9c4</sys_id>
+        <sys_metadata>b3edc2651b0da4103167975b234bcb34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sys_user_has_role</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_scope_delete display_value="">3e368aa854104d88a73e3260eded7f04</sys_scope_delete>
+        <sys_update_name>sys_scope_privilege_b3edc2651b0da4103167975b234bcb34</sys_update_name>
+        <sys_update_version display_value="sys_scope_privilege_b3edc2651b0da4103167975b234bcb34">fe6d24351b84f8101e7a6352604bcb9c</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 14:37:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
