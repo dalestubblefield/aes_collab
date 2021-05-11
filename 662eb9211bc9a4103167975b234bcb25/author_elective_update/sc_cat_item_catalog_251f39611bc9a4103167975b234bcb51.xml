@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request Citizen Dev Application Access">ad1f39611bc9a4103167975b234bcb4a</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:29:41</sys_created_on>
+        <sys_id>251f39611bc9a4103167975b234bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request Citizen Dev Application Access</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_251f39611bc9a4103167975b234bcb51</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:29:41</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</application>
+        <file_path/>
+        <instance_id>88198010dbbc2c505749cac50596198a</instance_id>
+        <instance_name>appengstudio</instance_name>
+        <name>sc_cat_item_catalog_251f39611bc9a4103167975b234bcb51</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request Citizen Dev Application Access">ad1f39611bc9a4103167975b234bcb4a</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>dale.stubblefield</sys_created_by><sys_created_on>2020-12-12 21:29:41</sys_created_on><sys_id>251f39611bc9a4103167975b234bcb51</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request Citizen Dev Application Access</sys_name><sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package><sys_policy/><sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope><sys_update_name>sc_cat_item_catalog_251f39611bc9a4103167975b234bcb51</sys_update_name><sys_updated_by>dale.stubblefield</sys_updated_by><sys_updated_on>2020-12-12 21:29:41</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-1925569613</payload_hash>
+        <record_name>Service Catalog.Request Citizen Dev Application Access</record_name>
+        <reverted_from/>
+        <source>622eb9211bc9a4103167975b234bcb28</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:29:41</sys_created_on>
+        <sys_id>6d1f39611bc9a4103167975b234bcb53</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17658dc009c0000001</sys_recorded_at>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:29:41</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a11f396176c9a410eea67fc751839753</update_guid>
+        <update_guid_history>a11f396176c9a410eea67fc751839753:-1925569613</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">df3f3d611bc9a4103167975b234bcbd0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:30:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>e4d064b4bf2243a88a3d6a9fccaa4324</sys_id>
+        <sys_metadata>251f39611bc9a4103167975b234bcb51</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request Citizen Dev Application Access</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sc_cat_item_catalog_251f39611bc9a4103167975b234bcb51</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_251f39611bc9a4103167975b234bcb51">6d1f39611bc9a4103167975b234bcb53</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:30:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-13 01:36:47</sys_created_on>
+        <sys_id>19a7baa91b8da4103167975b234bcbfd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>bf973ea91b8da4103167975b234bcb19</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sys_embedded_help_role_19a7baa91b8da4103167975b234bcbfd</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-13 01:36:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
