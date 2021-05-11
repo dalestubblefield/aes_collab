@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_aes_collabor.aes_admin</name>
+        <requires_subscription>1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>aes_admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-13 00:20:20</sys_created_on>
+        <sys_id>4e062aa91b4da4103167975b234bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_aes_collabor.aes_admin</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sys_user_role_4e062aa91b4da4103167975b234bcbfe</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-13 00:20:20</sys_updated_on>
+    </sys_user_role>
+</record_update>

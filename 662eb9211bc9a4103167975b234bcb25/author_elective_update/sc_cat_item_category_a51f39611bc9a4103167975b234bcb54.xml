@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request Citizen Dev Application Access">ad1f39611bc9a4103167975b234bcb4a</sc_cat_item>
+        <sc_category display_value="App Engine Studio">d4def1611bc9a4103167975b234bcb47</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:29:41</sys_created_on>
+        <sys_id>a51f39611bc9a4103167975b234bcb54</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Engine Studio.Request Citizen Dev Application Access</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sc_cat_item_category_a51f39611bc9a4103167975b234bcb54</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:29:41</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</application>
+        <file_path/>
+        <instance_id>88198010dbbc2c505749cac50596198a</instance_id>
+        <instance_name>appengstudio</instance_name>
+        <name>sc_cat_item_category_a51f39611bc9a4103167975b234bcb54</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request Citizen Dev Application Access">ad1f39611bc9a4103167975b234bcb4a</sc_cat_item><sc_category display_value="App Engine Studio">d4def1611bc9a4103167975b234bcb47</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>dale.stubblefield</sys_created_by><sys_created_on>2020-12-12 21:29:41</sys_created_on><sys_id>a51f39611bc9a4103167975b234bcb54</sys_id><sys_mod_count>0</sys_mod_count><sys_name>App Engine Studio.Request Citizen Dev Application Access</sys_name><sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package><sys_policy/><sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope><sys_update_name>sc_cat_item_category_a51f39611bc9a4103167975b234bcb54</sys_update_name><sys_updated_by>dale.stubblefield</sys_updated_by><sys_updated_on>2020-12-12 21:29:41</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-452984846</payload_hash>
+        <record_name>App Engine Studio.Request Citizen Dev Application Access</record_name>
+        <reverted_from/>
+        <source>622eb9211bc9a4103167975b234bcb28</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:29:41</sys_created_on>
+        <sys_id>291f39611bc9a4103167975b234bcbe0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17658dc00b80000001</sys_recorded_at>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:29:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6d1f3961b5c9a410fc8cac0588c301df</update_guid>
+        <update_guid_history>6d1f3961b5c9a410fc8cac0588c301df:-452984846</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9b3f3d611bc9a4103167975b234bcbc9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:30:21</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1d1a8b0879f946e9918dc36ec63556a1</sys_id>
+        <sys_metadata>a51f39611bc9a4103167975b234bcb54</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>App Engine Studio.Request Citizen Dev Application Access</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sc_cat_item_category_a51f39611bc9a4103167975b234bcb54</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_a51f39611bc9a4103167975b234bcb54">291f39611bc9a4103167975b234bcbe0</sys_update_version>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:30:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

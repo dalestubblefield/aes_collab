@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Add Citizen Developer">3b2fcea51b0da4103167975b234bcb99</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-13 00:21:56</sys_created_on>
+        <sys_id>7486aea91b4da4103167975b234bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Add a new Citizen Developer.AES Admins</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_7486aea91b4da4103167975b234bcb01</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-13 00:21:56</sys_updated_on>
+        <user_criteria display_value="AES Admins">20462ea91b4da4103167975b234bcb5b</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>
