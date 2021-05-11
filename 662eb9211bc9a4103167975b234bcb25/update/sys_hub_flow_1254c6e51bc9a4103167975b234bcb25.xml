@@ -5,14 +5,14 @@
         <active>true</active>
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
-        <category/>
-        <compiler_build>glide-trackjpmcaesdemo-11-26-2020</compiler_build>
+        <category display_value="User Management">d8cd21bd1b48f8101e7a6352604bcb07</category>
+        <compiler_build>glide-quebec-12-09-2020__patch1-hotfix1a-03-29-2021</compiler_build>
         <copied_from/>
         <copied_from_name/>
         <description/>
         <internal_name>create_aes_project</internal_name>
         <label_cache>[{"name":"ddd0572e-4dc4-46e0-a064-b11fcbd6c4c4.table_name","label":"3➛User Role Table","reference":"sys_user_has_role","reference_display":"User Role","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"ddd0572e-4dc4-46e0-a064-b11fcbd6c4c4.record","label":"3➛User Role Record","reference":"sys_user_has_role","reference_display":"User Role","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.user","label":"Input➛user","reference":"sys_user","reference_display":"User","type":"reference","base_type":"reference","column_name":"","attributes":{"uiType":"reference","uiTypeLabel":"Reference","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"4b425baa-863f-4202-9f81-4f853c383721","sourceUiUniqueId":"","sourceType":"","sourceId":""}},{"name":"subflow.user.sys_id","label":"Input➛user➛Sys ID","reference":"","reference_display":"Sys ID","type":"GUID","base_type":"GUID","parent_table_name":"sys_user","column_name":"sys_id"},{"name":"d3bb3257-31da-45e7-a610-04b06c40bd9a.error_message","label":"4➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"d3bb3257-31da-45e7-a610-04b06c40bd9a.status","label":"4➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"d3bb3257-31da-45e7-a610-04b06c40bd9a.Table","label":"4➛Project Table","reference":"sn_app_eng_studio_project","reference_display":"Project","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"d3bb3257-31da-45e7-a610-04b06c40bd9a.Record","label":"4➛Project Record","reference":"sn_app_eng_studio_project","reference_display":"Project","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3baa5c9-c991-4290-beda-9d118e1e9dda.Record","label":"1➛User Role Record","reference":"sys_user_has_role","reference_display":"User Role","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3baa5c9-c991-4290-beda-9d118e1e9dda.Table","label":"1➛User Role Table","reference":"sys_user_has_role","reference_display":"User Role","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"b3baa5c9-c991-4290-beda-9d118e1e9dda.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"b3baa5c9-c991-4290-beda-9d118e1e9dda.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"fcd2b653-b184-4d24-be14-203b76bce520.record","label":"6➛Project Record","reference":"sn_app_eng_studio_project","reference_display":"Project","type":"reference","base_type":"reference","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"fcd2b653-b184-4d24-be14-203b76bce520.table_name","label":"6➛Project Table","reference":"sn_app_eng_studio_project","reference_display":"Project","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"subflow.user.user_name","label":"Input➛user➛User ID","reference":"","reference_display":"User ID","type":"string","base_type":"string","parent_table_name":"sys_user","column_name":"user_name"}]</label_cache>
-        <latest_snapshot>3d52505e1b0528103167975b234bcb16</latest_snapshot>
+        <latest_snapshot>47e442291bc9a4103167975b234bcb5e</latest_snapshot>
         <master_snapshot>47e442291bc9a4103167975b234bcb5e</master_snapshot>
         <name>Create AES Project for user</name>
         <natlang/>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>1254c6e51bc9a4103167975b234bcb25</sys_id>
-        <sys_mod_count>21</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_name>Create AES Project for user</sys_name>
         <sys_overrides/>
         <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
         <sys_update_name>sys_hub_flow_1254c6e51bc9a4103167975b234bcb25</sys_update_name>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:05</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=1254c6e51bc9a4103167975b234bcb25"/>
@@ -153,10 +153,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:10:59</sys_created_on>
         <sys_id>22880e2d1bc9a4103167975b234bcbfd</sys_id>
-        <sys_mod_count>30</sys_mod_count>
+        <sys_mod_count>46</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <ui_id>b3baa5c9-c991-4290-beda-9d118e1e9dda</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=22880e2d1bc9a4103167975b234bcbfd"/>
@@ -240,10 +240,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:18:19</sys_created_on>
         <sys_id>4a3ac6ad1bc9a4103167975b234bcb90</sys_id>
-        <sys_mod_count>26</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <ui_id>fcd2b653-b184-4d24-be14-203b76bce520</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=4a3ac6ad1bc9a4103167975b234bcb90"/>
@@ -301,10 +301,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 21:55:08</sys_created_on>
         <sys_id>52e402291bc9a4103167975b234bcbcd</sys_id>
-        <sys_mod_count>44</sys_mod_count>
+        <sys_mod_count>60</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <ui_id>d3bb3257-31da-45e7-a610-04b06c40bd9a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=52e402291bc9a4103167975b234bcbcd"/>
@@ -343,11 +343,11 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 21:55:08</sys_created_on>
         <sys_id>d2e402291bc9a4103167975b234bcbcf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 21:55:08</sys_updated_on>
+        <sys_updated_on>2021-05-11 13:52:28</sys_updated_on>
         <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
-        <value>created_by={{subflow.user}}</value>
+        <value>nameLIKE{{subflow.user.user_name}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -388,10 +388,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:15:23</sys_created_on>
         <sys_id>fe890e6d1bc9a4103167975b234bcb76</sys_id>
-        <sys_mod_count>28</sys_mod_count>
+        <sys_mod_count>44</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <ui_id>ddd0572e-4dc4-46e0-a064-b11fcbd6c4c4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=fe890e6d1bc9a4103167975b234bcb76"/>
@@ -436,7 +436,7 @@
     </sys_element_mapping>
     <sys_hub_flow_logic action="delete_multiple" query="flow=1254c6e51bc9a4103167975b234bcb25^sys_idNOT INf7a6caa91bc9a4103167975b234bcb8a,fe890e6d1bc9a4103167975b234bcb6f"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">7ba6caa91bc9a4103167975b234bcb7d</block>
+        <block display_value="">3ae4383d1b84f8101e7a6352604bcb10</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -457,10 +457,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:02:53</sys_created_on>
         <sys_id>f7a6caa91bc9a4103167975b234bcb8a</sys_id>
-        <sys_mod_count>16</sys_mod_count>
+        <sys_mod_count>24</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:05</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <ui_id>6f891fdb-8d69-4d16-b9ee-25262561fe1c</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -506,7 +506,7 @@
         <value/>
     </sys_element_mapping>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">36890e6d1bc9a4103167975b234bcb6f</block>
+        <block display_value="">eee4383d1b84f8101e7a6352604bcb05</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -527,10 +527,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:15:23</sys_created_on>
         <sys_id>fe890e6d1bc9a4103167975b234bcb6f</sys_id>
-        <sys_mod_count>11</sys_mod_count>
+        <sys_mod_count>19</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:05</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:25</sys_updated_on>
         <ui_id>2d65bcb3-a6e4-4f1c-9364-3b3b099d1133</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -589,11 +589,11 @@
         <sys_created_on>2020-12-12 21:53:11</sys_created_on>
         <sys_id>71748ae51bc9a4103167975b234bcb83</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>user</sys_name>
+        <sys_name/>
         <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
         <sys_policy/>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_1254c6e51bc9a4103167975b234bcb25_user_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
         <sys_updated_on>2020-12-12 21:53:11</sys_updated_on>
         <url/>
@@ -601,19 +601,19 @@
     </sys_documentation>
     <sys_flow_subflow_plan action="delete_multiple" query="plan_id=1254c6e51bc9a4103167975b234bcb25^sys_idNOT INcfe442291bc9a4103167975b234bcbc3"/>
     <sys_flow_subflow_plan action="INSERT_OR_UPDATE">
-        <plan>{"persistor":{"@class":".ChunkingPlanPersistor","table":"sys_flow_subflow_plan","id":"cfe442291bc9a4103167975b234bcbc3","name":"plan"}}</plan>
+        <plan>com.snc.process_flow.engine.ProcessPlan@12f02f1</plan>
         <plan_id display_value="Create AES Project for user">1254c6e51bc9a4103167975b234bcb25</plan_id>
-        <snapshot>3d52505e1b0528103167975b234bcb16</snapshot>
+        <snapshot>47e442291bc9a4103167975b234bcb5e</snapshot>
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 21:55:11</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>cfe442291bc9a4103167975b234bcbc3</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_overrides/>
         <sys_scope/>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:05</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:24</sys_updated_on>
     </sys_flow_subflow_plan>
     <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
         <access>public</access>
@@ -621,7 +621,7 @@
         <active>true</active>
         <annotation/>
         <callable_by_client_api>false</callable_by_client_api>
-        <category/>
+        <category display_value="User Management">d8cd21bd1b48f8101e7a6352604bcb07</category>
         <copied_from/>
         <copied_from_name/>
         <description/>
@@ -643,7 +643,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>47e442291bc9a4103167975b234bcb5e</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -651,7 +651,7 @@
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
         <sys_update_name/>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:03</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <type>subflow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=47e442291bc9a4103167975b234bcb5e"/>
@@ -766,10 +766,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:18:42</sys_created_on>
         <sys_id>234a0ead1bc9a4103167975b234bcba6</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <ui_id>ddd0572e-4dc4-46e0-a064-b11fcbd6c4c4</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=234a0ead1bc9a4103167975b234bcba6"/>
@@ -827,10 +827,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:18:42</sys_created_on>
         <sys_id>6b4a0ead1bc9a4103167975b234bcbad</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <ui_id>fcd2b653-b184-4d24-be14-203b76bce520</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=6b4a0ead1bc9a4103167975b234bcbad"/>
@@ -875,10 +875,11 @@
     </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="">963f72a81b3c20103167975b234bcbe5</action_type>
+        <action_inputs/>
+        <action_type display_value="Look Up Record">9d09f99587003300663ca1bb36cb0ba3</action_type>
         <action_type_parent display_value="Look Up Record">b93f42810b30030085c083eb37673a63</action_type_parent>
         <comment/>
-        <compiled_snapshot>963f72a81b3c20103167975b234bcbe5</compiled_snapshot>
+        <compiled_snapshot>9d09f99587003300663ca1bb36cb0ba3</compiled_snapshot>
         <display_text/>
         <flow display_value="Create AES Project for user">47e442291bc9a4103167975b234bcb5e</flow>
         <order>4</order>
@@ -887,10 +888,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 21:55:11</sys_created_on>
         <sys_id>8be442291bc9a4103167975b234bcba5</sys_id>
-        <sys_mod_count>24</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <ui_id>d3bb3257-31da-45e7-a610-04b06c40bd9a</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=8be442291bc9a4103167975b234bcba5"/>
@@ -922,12 +923,50 @@
         <value>1</value>
         <variable display_value="Don't fail on error">ceab42a673110010d70877186bf6a74f</variable>
     </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=8be442291bc9a4103167975b234bcba5"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>8be442291bc9a4103167975b234bcba5</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:55:11</sys_created_on>
+        <sys_id>43e442291bc9a4103167975b234bcba7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 13:52:36</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
+        <value>nameLIKE{{subflow.user.user_name}}</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>8be442291bc9a4103167975b234bcba5</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 21:55:11</sys_created_on>
+        <sys_id>07e442291bc9a4103167975b234bcba7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 21:55:11</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>__snc_dont_fail_on_error</field>
+        <id>8be442291bc9a4103167975b234bcba5</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 22:24:05</sys_created_on>
+        <sys_id>5a8bce211b0da4103167975b234bcb78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 22:24:05</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_action_instance action="INSERT_OR_UPDATE">
         <action_inputs/>
-        <action_type display_value="">963f72a81b3c20103167975b234bcbe5</action_type>
+        <action_inputs/>
+        <action_type display_value="Look Up Record">9d09f99587003300663ca1bb36cb0ba3</action_type>
         <action_type_parent display_value="Look Up Record">b93f42810b30030085c083eb37673a63</action_type_parent>
         <comment/>
-        <compiled_snapshot>963f72a81b3c20103167975b234bcbe5</compiled_snapshot>
+        <compiled_snapshot>9d09f99587003300663ca1bb36cb0ba3</compiled_snapshot>
         <display_text/>
         <flow display_value="Create AES Project for user">47e442291bc9a4103167975b234bcb5e</flow>
         <order>1</order>
@@ -936,10 +975,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:18:42</sys_created_on>
         <sys_id>eb4a0ead1bc9a4103167975b234bcb9e</sys_id>
-        <sys_mod_count>18</sys_mod_count>
+        <sys_mod_count>30</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2020-12-14 21:30:01</sys_updated_on>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <ui_id>b3baa5c9-c991-4290-beda-9d118e1e9dda</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eb4a0ead1bc9a4103167975b234bcb9e"/>
@@ -971,9 +1010,46 @@
         <value>1</value>
         <variable display_value="Don't fail on error">ceab42a673110010d70877186bf6a74f</variable>
     </sys_variable_value>
+    <sys_element_mapping action="delete_multiple" query="id=eb4a0ead1bc9a4103167975b234bcb9e"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>conditions</field>
+        <id>eb4a0ead1bc9a4103167975b234bcb9e</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 22:18:42</sys_created_on>
+        <sys_id>674a0ead1bc9a4103167975b234bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 22:18:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
+        <value>user={{subflow.user}}^role=97f4a0c20f123300e54f3c71df767ea2</value>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>table</field>
+        <id>eb4a0ead1bc9a4103167975b234bcb9e</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 22:18:42</sys_created_on>
+        <sys_id>2b4a0ead1bc9a4103167975b234bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 22:18:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
+        <value/>
+    </sys_element_mapping>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>__snc_dont_fail_on_error</field>
+        <id>eb4a0ead1bc9a4103167975b234bcb9e</id>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2020-12-12 22:18:42</sys_created_on>
+        <sys_id>a34a0ead1bc9a4103167975b234bcba0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2020-12-12 22:18:42</sys_updated_on>
+        <table>var__m_sys_hub_action_input_9d09f99587003300663ca1bb36cb0ba3</table>
+        <value/>
+    </sys_element_mapping>
     <sys_hub_flow_logic action="delete_multiple" query="flow=47e442291bc9a4103167975b234bcb5e^sys_idNOT IN2f4a0ead1bc9a4103167975b234bcbb3,6b4a0ead1bc9a4103167975b234bcbaf"/>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">7ba6caa91bc9a4103167975b234bcb7d</block>
+        <block display_value="">3ae4383d1b84f8101e7a6352604bcb10</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -994,10 +1070,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:18:42</sys_created_on>
         <sys_id>2f4a0ead1bc9a4103167975b234bcbb3</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:03</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <ui_id>6f891fdb-8d69-4d16-b9ee-25262561fe1c</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1043,7 +1119,7 @@
         <value/>
     </sys_element_mapping>
     <sys_hub_flow_logic action="INSERT_OR_UPDATE">
-        <block display_value="">36890e6d1bc9a4103167975b234bcb6f</block>
+        <block display_value="">eee4383d1b84f8101e7a6352604bcb05</block>
         <comment/>
         <connected_to/>
         <decision_table/>
@@ -1064,10 +1140,10 @@
         <sys_created_by>dale.stubblefield</sys_created_by>
         <sys_created_on>2020-12-12 22:18:42</sys_created_on>
         <sys_id>6b4a0ead1bc9a4103167975b234bcbaf</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
-        <sys_updated_on>2020-12-12 22:51:03</sys_updated_on>
+        <sys_updated_on>2021-05-11 18:02:23</sys_updated_on>
         <ui_id>2d65bcb3-a6e4-4f1c-9364-3b3b099d1133</ui_id>
         <workflow_inputs/>
         <workflow_reference/>
@@ -1126,11 +1202,11 @@
         <sys_created_on>2020-12-12 21:55:11</sys_created_on>
         <sys_id>83e442291bc9a4103167975b234bcb96</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>user</sys_name>
+        <sys_name/>
         <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
         <sys_policy/>
         <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
-        <sys_update_name>sys_documentation_var__m_sys_hub_flow_input_47e442291bc9a4103167975b234bcb5e_user_en</sys_update_name>
+        <sys_update_name/>
         <sys_updated_by>dale.stubblefield</sys_updated_by>
         <sys_updated_on>2020-12-12 21:55:11</sys_updated_on>
         <url/>

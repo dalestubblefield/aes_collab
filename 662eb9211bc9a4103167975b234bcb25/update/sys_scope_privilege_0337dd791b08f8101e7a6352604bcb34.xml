@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_scope_privilege">
+    <sys_scope_privilege action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</source_scope>
+        <status>allowed</status>
+        <sys_class_name>sys_scope_privilege</sys_class_name>
+        <sys_created_by>dale.stubblefield</sys_created_by>
+        <sys_created_on>2021-05-11 16:22:39</sys_created_on>
+        <sys_id>0337dd791b08f8101e7a6352604bcb34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ScriptableFlowRunner.flow</sys_name>
+        <sys_package display_value="AES Collaboration" source="x_snc_aes_collabor">662eb9211bc9a4103167975b234bcb25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AES Collaboration">662eb9211bc9a4103167975b234bcb25</sys_scope>
+        <sys_update_name>sys_scope_privilege_0337dd791b08f8101e7a6352604bcb34</sys_update_name>
+        <sys_updated_by>dale.stubblefield</sys_updated_by>
+        <sys_updated_on>2021-05-11 16:22:39</sys_updated_on>
+        <target_name>ScriptableFlowRunner.flow</target_name>
+        <target_scope display_value="Global">global</target_scope>
+        <target_type>scriptable</target_type>
+    </sys_scope_privilege>
+</record_update>
